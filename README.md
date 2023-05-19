@@ -35,4 +35,4 @@ I'm a CS undergraduate student in DDWU
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cup0927&" alt="cup0927" /></p>
 
-<a href="http://www.github.com/cup0927"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cup0927&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/cup0927"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cup0927&bg_color=ffffff&color=1c1917&line=08B200&point=1c1917&area_color=08B200&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
