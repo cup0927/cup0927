@@ -1,15 +1,18 @@
-Hi 👋 There
+Hello Stranger! 👋  
 ==========================
 
 I'm a Programmer (still working on... lol)
 ------------------------------------
 
-* 🌍  I'm based in Seoul
+* 🌐 한국어 · English· 中文 
 * ✉️  You can also contact me at [kimsuein@gmail.com](mailto:kimsuein@gmail.com)
 * 🧠  I'm learning ML, CV
+* 🔗 Blog: [soo in the computer](https://)
+
+### Projects
+
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
