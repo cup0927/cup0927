@@ -1,12 +1,12 @@
-Hi 👋 My name is SOOIN KIM
+Hi 👋 There
 ==========================
 
-Programmer (still working on... lol)
+I'm a Programmer (still working on... lol)
 ------------------------------------
 
 * 🌍  I'm based in Seoul
-* ✉️  You can contact me at [kimsuein@gmail.com](mailto:kimsuein@gmail.com)
-* 🧠  I'm learning Computer Vision
+* ✉️  You can also contact me at [kimsuein@gmail.com](mailto:kimsuein@gmail.com)
+* 🧠  I'm learning ML, CV
 
 ### Skills
 
