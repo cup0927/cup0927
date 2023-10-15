@@ -5,7 +5,7 @@ I'm a CS undergraduate student in DDWU
 * 🌐 한국어 · English· 中文 
 * ✉️  You can also contact me at [kimsuein@gmail.com](mailto:kimsuein@gmail.com)
 * 🧠  I'm learning ML, CV
-* 🔗 Blog: [soo in the computer](https://cup0927.github.io/)
+* 🔗 Blog: [soo in the computer](https://)
 
 ### Projects
 
